@@ -1,0 +1,39 @@
+C:\Users\novita\Desktop\IT2154 ASN1\PokemonPocket\bin\Debug\netcoreapp3.1\PokemonPocket.exe
+C:\Users\novita\Desktop\IT2154 ASN1\PokemonPocket\bin\Debug\netcoreapp3.1\PokemonPocket.deps.json
+C:\Users\novita\Desktop\IT2154 ASN1\PokemonPocket\bin\Debug\netcoreapp3.1\PokemonPocket.runtimeconfig.json
+C:\Users\novita\Desktop\IT2154 ASN1\PokemonPocket\bin\Debug\netcoreapp3.1\PokemonPocket.runtimeconfig.dev.json
+C:\Users\novita\Desktop\IT2154 ASN1\PokemonPocket\bin\Debug\netcoreapp3.1\PokemonPocket.dll
+C:\Users\novita\Desktop\IT2154 ASN1\PokemonPocket\bin\Debug\netcoreapp3.1\PokemonPocket.pdb
+C:\Users\novita\Desktop\IT2154 ASN1\PokemonPocket\obj\Debug\netcoreapp3.1\PokemonPocket.csprojAssemblyReference.cache
+C:\Users\novita\Desktop\IT2154 ASN1\PokemonPocket\obj\Debug\netcoreapp3.1\PokemonPocket.AssemblyInfoInputs.cache
+C:\Users\novita\Desktop\IT2154 ASN1\PokemonPocket\obj\Debug\netcoreapp3.1\PokemonPocket.AssemblyInfo.cs
+C:\Users\novita\Desktop\IT2154 ASN1\PokemonPocket\obj\Debug\netcoreapp3.1\PokemonPocket.csproj.CoreCompileInputs.cache
+C:\Users\novita\Desktop\IT2154 ASN1\PokemonPocket\obj\Debug\netcoreapp3.1\PokemonPocket.dll
+C:\Users\novita\Desktop\IT2154 ASN1\PokemonPocket\obj\Debug\netcoreapp3.1\PokemonPocket.pdb
+C:\Users\novita\Desktop\IT2154 ASN1\PokemonPocket\obj\Debug\netcoreapp3.1\PokemonPocket.genruntimeconfig.cache
+G:\NYP Classes - y2sem1\Advanced Programming\Assignment 1\PokemonPocket\bin\Debug\netcoreapp3.1\PokemonPocket.exe
+G:\NYP Classes - y2sem1\Advanced Programming\Assignment 1\PokemonPocket\bin\Debug\netcoreapp3.1\PokemonPocket.deps.json
+G:\NYP Classes - y2sem1\Advanced Programming\Assignment 1\PokemonPocket\bin\Debug\netcoreapp3.1\PokemonPocket.runtimeconfig.json
+G:\NYP Classes - y2sem1\Advanced Programming\Assignment 1\PokemonPocket\bin\Debug\netcoreapp3.1\PokemonPocket.runtimeconfig.dev.json
+G:\NYP Classes - y2sem1\Advanced Programming\Assignment 1\PokemonPocket\bin\Debug\netcoreapp3.1\PokemonPocket.dll
+G:\NYP Classes - y2sem1\Advanced Programming\Assignment 1\PokemonPocket\bin\Debug\netcoreapp3.1\PokemonPocket.pdb
+G:\NYP Classes - y2sem1\Advanced Programming\Assignment 1\PokemonPocket\obj\Debug\netcoreapp3.1\PokemonPocket.csprojAssemblyReference.cache
+G:\NYP Classes - y2sem1\Advanced Programming\Assignment 1\PokemonPocket\obj\Debug\netcoreapp3.1\PokemonPocket.AssemblyInfoInputs.cache
+G:\NYP Classes - y2sem1\Advanced Programming\Assignment 1\PokemonPocket\obj\Debug\netcoreapp3.1\PokemonPocket.AssemblyInfo.cs
+G:\NYP Classes - y2sem1\Advanced Programming\Assignment 1\PokemonPocket\obj\Debug\netcoreapp3.1\PokemonPocket.csproj.CoreCompileInputs.cache
+G:\NYP Classes - y2sem1\Advanced Programming\Assignment 1\PokemonPocket\obj\Debug\netcoreapp3.1\PokemonPocket.dll
+G:\NYP Classes - y2sem1\Advanced Programming\Assignment 1\PokemonPocket\obj\Debug\netcoreapp3.1\PokemonPocket.pdb
+G:\NYP Classes - y2sem1\Advanced Programming\Assignment 1\PokemonPocket\obj\Debug\netcoreapp3.1\PokemonPocket.genruntimeconfig.cache
+E:\NYP Classes - y2sem1\Advanced Programming\Assignment 1\PokemonPocket\bin\Debug\netcoreapp3.1\PokemonPocket.exe
+E:\NYP Classes - y2sem1\Advanced Programming\Assignment 1\PokemonPocket\bin\Debug\netcoreapp3.1\PokemonPocket.deps.json
+E:\NYP Classes - y2sem1\Advanced Programming\Assignment 1\PokemonPocket\bin\Debug\netcoreapp3.1\PokemonPocket.runtimeconfig.json
+E:\NYP Classes - y2sem1\Advanced Programming\Assignment 1\PokemonPocket\bin\Debug\netcoreapp3.1\PokemonPocket.runtimeconfig.dev.json
+E:\NYP Classes - y2sem1\Advanced Programming\Assignment 1\PokemonPocket\bin\Debug\netcoreapp3.1\PokemonPocket.dll
+E:\NYP Classes - y2sem1\Advanced Programming\Assignment 1\PokemonPocket\bin\Debug\netcoreapp3.1\PokemonPocket.pdb
+E:\NYP Classes - y2sem1\Advanced Programming\Assignment 1\PokemonPocket\obj\Debug\netcoreapp3.1\PokemonPocket.csprojAssemblyReference.cache
+E:\NYP Classes - y2sem1\Advanced Programming\Assignment 1\PokemonPocket\obj\Debug\netcoreapp3.1\PokemonPocket.AssemblyInfoInputs.cache
+E:\NYP Classes - y2sem1\Advanced Programming\Assignment 1\PokemonPocket\obj\Debug\netcoreapp3.1\PokemonPocket.AssemblyInfo.cs
+E:\NYP Classes - y2sem1\Advanced Programming\Assignment 1\PokemonPocket\obj\Debug\netcoreapp3.1\PokemonPocket.csproj.CoreCompileInputs.cache
+E:\NYP Classes - y2sem1\Advanced Programming\Assignment 1\PokemonPocket\obj\Debug\netcoreapp3.1\PokemonPocket.dll
+E:\NYP Classes - y2sem1\Advanced Programming\Assignment 1\PokemonPocket\obj\Debug\netcoreapp3.1\PokemonPocket.pdb
+E:\NYP Classes - y2sem1\Advanced Programming\Assignment 1\PokemonPocket\obj\Debug\netcoreapp3.1\PokemonPocket.genruntimeconfig.cache
