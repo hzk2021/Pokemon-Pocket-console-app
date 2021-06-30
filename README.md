@@ -1,5 +1,5 @@
-# C# Miniproject-task-ITE
-A C# coded console program that performs file viewing, sorting, and checking on abnormal content. (ITE Mini Project)
+# C# Miniproject-task-Poly
+A console application to let pokemon player keep, view, and check if they can evolve and evolve their pokemon characters. (Poly Mini Project)
 
 # Information
 A Pokemon Pocket console application to let pokemon player
